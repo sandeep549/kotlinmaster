@@ -1,7 +1,5 @@
 package leetcode.kotlin.array.easy
 
-import android.annotation.SuppressLint
-
 private fun subarraySum(nums: IntArray, k: Int): Int {
     var cnt = 0
     for (i in nums.indices) {
@@ -14,7 +12,6 @@ private fun subarraySum(nums: IntArray, k: Int): Int {
     return cnt
 }
 
-@SuppressLint("NewApi")
 private fun subarraySum2(nums: IntArray, k: Int): Int {
     var cnt = 0
     var sum = 0

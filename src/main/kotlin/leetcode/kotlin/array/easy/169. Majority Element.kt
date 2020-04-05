@@ -1,7 +1,5 @@
 package leetcode.kotlin.array.easy
 
-import android.annotation.SuppressLint
-
 // brute force
 // O(n^2)
 private fun majorityElement(nums: IntArray): Int {
@@ -19,7 +17,7 @@ private fun majorityElement(nums: IntArray): Int {
 
 // By Map
 // O(n);O(n)
-@SuppressLint("NewApi")
+
 private fun majorityElement1(nums: IntArray): Int {
     val map = mutableMapOf<Int, Int>()
     for (n in nums) {

@@ -1,7 +1,7 @@
 package leetcode.kotlin.tree.bst
 
-import com.example.kotlinsamples.leetcode.kotlin.tree.TreeNode
-import java.util.*
+import leetcode.kotlin.tree.TreeNode
+import java.util.ArrayDeque
 
 private class BSTIterator(root: TreeNode?) {
 

@@ -1,6 +1,5 @@
 package leetcode.kotlin.tree.easy
 
-import com.example.kotlinsamples.leetcode.kotlin.tree.TreeNode
 
 private fun isSubtree(s: TreeNode?, t: TreeNode?): Boolean {
     fun isSame(s: TreeNode?, t: TreeNode?): Boolean {

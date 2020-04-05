@@ -1,8 +1,7 @@
 package leetcode.kotlin.z_ImportantCodeSnippet
 
-import com.example.kotlinsamples.leetcode.kotlin.tree.TreeNode
-import java.util.*
-import kotlin.collections.ArrayList
+import leetcode.kotlin.tree.TreeNode
+import java.util.ArrayDeque
 
 private fun preorderTraversal2(root: TreeNode?): List<Int> {
     val stack: ArrayDeque<TreeNode> = ArrayDeque()

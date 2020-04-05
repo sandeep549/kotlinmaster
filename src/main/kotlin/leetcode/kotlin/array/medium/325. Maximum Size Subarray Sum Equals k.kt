@@ -1,8 +1,5 @@
 package leetcode.kotlin.array.medium
 
-import android.annotation.SuppressLint
-
-@SuppressLint("NewApi")
 private fun maxSubArrayLen(nums: IntArray, k: Int): Int {
     var max = 0
     var map = mutableMapOf<Int, Int>()

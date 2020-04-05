@@ -1,13 +1,10 @@
 package leetcode.kotlin.hashtable
 
-import android.annotation.SuppressLint
-
 private fun intersection(nums1: IntArray, nums2: IntArray): IntArray {
     return nums1.intersect(nums2.toHashSet()).toIntArray()
     // return nums1.toHashSet().intersect(nums2.toHashSet()).toIntArray()
 }
 
-@SuppressLint("NewApi")
 private fun intersection2(nums1: IntArray, nums2: IntArray): IntArray {
     var map1 = HashMap<Int, Int>()
     for (n in nums1) {

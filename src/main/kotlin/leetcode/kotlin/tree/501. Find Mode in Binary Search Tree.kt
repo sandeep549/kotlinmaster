@@ -1,8 +1,6 @@
 package leetcode.kotlin.tree
 
-import android.annotation.SuppressLint
-import java.util.*
-import kotlin.collections.ArrayList
+import java.util.ArrayDeque
 
 /**
  * Traverse the tree and maintain hashmap of all elements with their frequencies.
@@ -10,7 +8,7 @@ import kotlin.collections.ArrayList
  * O(n), n is no of nodes in tree
  * O(n)
  */
-@SuppressLint("NewApi")
+
 private fun findMode(root: TreeNode?): IntArray {
     if (root == null) return intArrayOf()
     var map = hashMapOf<Int, Int>() // HashMap<Int, Int>()

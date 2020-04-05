@@ -1,7 +1,5 @@
 package leetcode.kotlin.misc
 
-import android.annotation.SuppressLint
-
 private fun intersect5(nums1: IntArray, nums2: IntArray): IntArray {
     nums1.sort()
     nums2.sort()
@@ -22,7 +20,6 @@ private fun intersect5(nums1: IntArray, nums2: IntArray): IntArray {
     return ans.toIntArray()
 }
 
-@SuppressLint("NewApi")
 private fun intersect4(nums1: IntArray, nums2: IntArray): IntArray {
     var map = HashMap<Int, Int>()
     var list = ArrayList<Int>()
@@ -36,7 +33,6 @@ private fun intersect4(nums1: IntArray, nums2: IntArray): IntArray {
     return list.toIntArray()
 }
 
-@SuppressLint("NewApi")
 private fun intersect3(nums1: IntArray, nums2: IntArray): IntArray {
     var map = HashMap<Int, Int>()
     var list = ArrayList<Int>()
@@ -52,7 +48,6 @@ private fun intersect3(nums1: IntArray, nums2: IntArray): IntArray {
     return list.toIntArray()
 }
 
-@SuppressLint("NewApi")
 private fun intersect2(nums1: IntArray, nums2: IntArray): IntArray {
     var map1 = HashMap<Int, Int>()
     nums1.forEach { i -> map1.put(i, map1.getOrDefault(i, 0) + 1) }
