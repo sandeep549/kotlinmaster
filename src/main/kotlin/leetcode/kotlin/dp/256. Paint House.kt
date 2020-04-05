@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 /**
  * R(n) = Min(G(n-1), B(n-1)) + arr[n][0]

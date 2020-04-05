@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.hashtable
+package leetcode.kotlin.hashtable
 
 private fun firstUniqChar(s: String): Int {
     var seen = s.toCharArray().groupBy { it }.mapValues { it.value.size }

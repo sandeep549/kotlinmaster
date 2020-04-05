@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 fun main() {
     var head = "[4,5,1,9]".toLinkedList()

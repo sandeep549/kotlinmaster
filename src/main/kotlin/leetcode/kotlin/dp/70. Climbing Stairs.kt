@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 fun main() {
     println(climbStairs(2))

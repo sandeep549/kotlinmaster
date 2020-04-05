@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 // library function given in question, sample implementation
 fun knows(a: Int, b: Int): Boolean = true

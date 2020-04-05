@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.z_ImportantCodeSnippet
+package leetcode.kotlin.z_ImportantCodeSnippet
 
 import com.example.kotlinsamples.leetcode.kotlin.tree.TreeNode
 import java.util.*

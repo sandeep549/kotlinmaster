@@ -1,14 +1,12 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
-import android.annotation.SuppressLint
-import java.util.*
+import java.util.PriorityQueue
 
 private fun findKthLargest(nums: IntArray, k: Int): Int {
     nums.sort()
     return nums[nums.size - k]
 }
 
-@SuppressLint("NewApi")
 private fun findKthLargest2(nums: IntArray, k: Int): Int {
     var priorityQueue = PriorityQueue<Int> { i1, i2 -> i1 - i2 }
     for (num in nums) {

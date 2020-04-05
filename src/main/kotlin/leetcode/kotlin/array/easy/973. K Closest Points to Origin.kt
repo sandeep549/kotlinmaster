@@ -1,6 +1,6 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
-import java.util.*
+import java.util.Arrays
 import kotlin.random.Random
 
 // O(nlogn),O(n)

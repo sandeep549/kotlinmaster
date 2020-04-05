@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun findMin(nums: IntArray): Int {
     var l = 0

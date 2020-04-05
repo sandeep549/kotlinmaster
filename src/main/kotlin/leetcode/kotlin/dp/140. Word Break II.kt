@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 // Time complexity looks O(n^2) here
 // In worst case if all prefix exists in dict. then outer loop is O(n),

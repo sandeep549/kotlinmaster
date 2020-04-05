@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 /**
  * f(n) = Max(              // max amount to robbed till n

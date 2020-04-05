@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.misc
+package leetcode.kotlin.misc
 
 private fun singleNumber(nums: IntArray): Int {
     var res = 0
@@ -6,6 +6,11 @@ private fun singleNumber(nums: IntArray): Int {
     return res
 }
 
-private fun singleNumver2(nums: IntArray): Int {
-    return nums.reduce { acc, i -> acc.xor(i) }
+private fun singleNumber2(nums: IntArray): Int {
+    return nums.reduce { acc, ele -> acc.xor(ele) }
+}
+
+private fun singleNumber3(nums: IntArray): Int {
+    return nums.asSequence().groupBy { it }.mapValues { it.value.size }.filter { it.value == 1 }.keys.first()
+    // return nums.groupBy { it }.mapValues { it.value.size }.filter { it.value == 1 }.keys.first()
 }

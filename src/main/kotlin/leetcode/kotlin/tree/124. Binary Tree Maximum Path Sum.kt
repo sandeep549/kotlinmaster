@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 /**
  * Traverse the tree and while backtrack, maintain mas_so_far at every node, return max passing through

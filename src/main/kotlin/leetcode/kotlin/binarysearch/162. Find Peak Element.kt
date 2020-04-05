@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 fun main() {
     println(findPeakElement(intArrayOf(1, 2, 3, 1)))

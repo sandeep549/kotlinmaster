@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp.medium
+package leetcode.kotlin.dp.medium
 
 private fun findLongestChain(pairs: Array<IntArray>): Int {
     var ans = 0

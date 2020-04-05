@@ -1,8 +1,5 @@
-package com.example.kotlinsamples.leetcode.kotlin.slidingwindow
+package leetcode.kotlin.slidingwindow
 
-import android.annotation.SuppressLint
-
-@SuppressLint("NewApi")
 private fun minWindow(s: String, t: String): String {
     if (s.length < t.length) return ""
     val dict = t.toCharArray().groupBy { it }.mapValues { it.value.size }.toMutableMap()

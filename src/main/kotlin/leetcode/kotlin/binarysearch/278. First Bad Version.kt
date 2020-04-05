@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 private fun firstBadVersion(n: Int): Int {
     var l = 1

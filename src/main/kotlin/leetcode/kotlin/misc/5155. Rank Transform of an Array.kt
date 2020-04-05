@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.misc
+package leetcode.kotlin.misc
 
 fun main() {
     println(arrayRankTransform(intArrayOf(40, 10, 20, 30)).toList())

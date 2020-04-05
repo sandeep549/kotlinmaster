@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.stack
+package leetcode.kotlin.stack
 
 import java.util.*
 

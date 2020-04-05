@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 private fun merge(nums1: IntArray, m: Int, nums2: IntArray, n: Int) {
     var i = m - 1

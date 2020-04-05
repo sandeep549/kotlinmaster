@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.string
+package leetcode.kotlin.string
 
 private fun letterCombinations(digits: String): List<String> {
     var map = mapOf(

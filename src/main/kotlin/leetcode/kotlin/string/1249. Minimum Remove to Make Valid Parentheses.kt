@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.string
+package leetcode.kotlin.string
 
 import java.util.*
 

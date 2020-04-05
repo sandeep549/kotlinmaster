@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.NamedAlgorithms
+package leetcode.kotlin.array.NamedAlgorithms
 
 /*
 

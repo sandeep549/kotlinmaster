@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.math
+package leetcode.kotlin.math
 
 private fun isHappy(n: Int): Boolean {
     fun next(n: Int): Int {

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.hard
+package leetcode.kotlin.array.hard
 
 import kotlin.random.Random
 

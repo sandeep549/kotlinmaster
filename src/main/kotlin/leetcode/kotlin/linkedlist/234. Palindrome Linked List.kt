@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin
+package leetcode.kotlin
 
 import com.example.kotlinsamples.leetcode.kotlin.linkedlist.ListNode
 

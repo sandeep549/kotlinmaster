@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.string
+package leetcode.kotlin.string
 
 private fun addStrings(num1: String, num2: String): String {
     var i = num1.length - 1

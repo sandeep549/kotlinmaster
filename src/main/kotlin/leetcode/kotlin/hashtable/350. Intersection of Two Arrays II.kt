@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.hashtable
+package leetcode.kotlin.hashtable
 
 private fun intersect(nums1: IntArray, nums2: IntArray): IntArray {
     var map1 = nums1.toList().groupingBy { it }.eachCount()

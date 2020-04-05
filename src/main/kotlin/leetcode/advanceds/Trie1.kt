@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.advanceds
+package leetcode.advanceds
 
 /**
  * A sample Trie to store only lower case alphabets.

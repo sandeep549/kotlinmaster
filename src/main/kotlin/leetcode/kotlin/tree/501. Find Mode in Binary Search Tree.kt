@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 import android.annotation.SuppressLint
 import java.util.*

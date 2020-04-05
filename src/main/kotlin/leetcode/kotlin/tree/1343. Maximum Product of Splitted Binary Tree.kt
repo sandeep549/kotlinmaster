@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun maxProduct(root: TreeNode?): Int {
     var total: Long = 0

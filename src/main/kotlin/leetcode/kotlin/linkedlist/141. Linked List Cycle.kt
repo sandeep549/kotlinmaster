@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 fun main() {
 }

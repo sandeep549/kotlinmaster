@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 private fun nextPermutation(nums: IntArray) {
     fun reverse(nums: IntArray, l: Int, r: Int) {

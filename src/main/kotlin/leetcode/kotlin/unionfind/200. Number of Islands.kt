@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.unionfind
+package leetcode.kotlin.unionfind
 
 private fun numIslands(grid: Array<CharArray>): Int {
     var seen = mutableSetOf<Pair<Int, Int>>()

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 class Point(var x: Int, var y: Int, var `val`: Int)
 

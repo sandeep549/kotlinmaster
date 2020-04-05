@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 private fun merge(intervals: Array<IntArray>): Array<IntArray> {
     if (intervals.isEmpty()) return emptyArray()

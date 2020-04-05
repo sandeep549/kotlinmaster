@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 // solution not verified, as env. not available
 private fun inorderSuccessor(root: TreeNode?, p: TreeNode): TreeNode? {

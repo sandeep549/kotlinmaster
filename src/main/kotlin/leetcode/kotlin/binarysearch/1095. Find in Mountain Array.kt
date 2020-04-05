@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 private fun findInMountainArray(target: Int, mountainArray: MountainArray): Int {
     // cache the calls to minimize calls to MountainArray

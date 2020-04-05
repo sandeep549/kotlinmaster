@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 private fun countSmaller(nums: IntArray): List<Int> {
     var smaller = IntArray(nums.size)
@@ -37,7 +37,7 @@ private fun countSmaller3(nums: IntArray): List<Int> {
         .mapIndexed { i, it ->
             nums
                 .slice(i until nums.size)
-                .filter { i -> it>i }
+                .filter { i -> it> i }
                 .count()
         }
 }

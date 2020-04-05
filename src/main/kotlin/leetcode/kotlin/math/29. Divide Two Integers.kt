@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.math
+package leetcode.kotlin.math
 
 private fun divide(dividend: Int, divisor: Int): Int {
     if (dividend == Int.MIN_VALUE && divisor == -1) return Int.MAX_VALUE

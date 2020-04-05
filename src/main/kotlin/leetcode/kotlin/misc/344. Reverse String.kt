@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.misc
+package leetcode.kotlin.misc
 
 fun reverseString(s: CharArray) {
     for (i in 0..s.size / 2 - 1) {

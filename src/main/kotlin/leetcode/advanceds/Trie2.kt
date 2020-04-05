@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.advanceds
+package leetcode.advanceds
 
 private class Trie2 {
     private class TrieNode {

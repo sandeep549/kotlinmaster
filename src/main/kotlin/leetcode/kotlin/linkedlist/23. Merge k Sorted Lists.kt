@@ -1,6 +1,6 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
-import java.util.*
+import java.util.PriorityQueue
 import kotlin.collections.ArrayList
 
 // Upper Bound -> O(N * klogk)

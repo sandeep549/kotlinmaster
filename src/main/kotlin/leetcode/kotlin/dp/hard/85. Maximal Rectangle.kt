@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp.hard
+package leetcode.kotlin.dp.hard
 
 private fun maximalRectangle(matrix: Array<CharArray>): Int {
     /**

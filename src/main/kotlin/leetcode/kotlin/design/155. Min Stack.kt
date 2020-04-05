@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.design
+package leetcode.kotlin.design
 
 import java.util.*
 

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun combinationSum3(k: Int, n: Int): List<List<Int>> {
     var ans = mutableListOf<List<Int>>()

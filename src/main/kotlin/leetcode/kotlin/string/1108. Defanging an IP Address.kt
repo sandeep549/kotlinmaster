@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.string
+package leetcode.kotlin.string
 
 fun main() {
     println(defangIPaddr("255.100.50.0"))

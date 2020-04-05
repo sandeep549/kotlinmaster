@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun majorityElement(nums: IntArray): List<Int> {
     val l = nums.size / 3

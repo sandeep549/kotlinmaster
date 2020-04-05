@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun findSecondMinimumValue(root: TreeNode?): Int {
     var ans = ArrayList<Int>()

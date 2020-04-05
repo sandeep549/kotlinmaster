@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun canJump(nums: IntArray): Boolean {
     var table = Array<Boolean?>(nums.size) { null }

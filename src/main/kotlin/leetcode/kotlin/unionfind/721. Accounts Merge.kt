@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.unionfind
+package leetcode.kotlin.unionfind
 
 import java.util.*
 

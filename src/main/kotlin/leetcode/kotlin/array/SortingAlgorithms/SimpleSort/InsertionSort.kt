@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.SortingAlgorithms.SimpleSort
+package leetcode.kotlin.array.SortingAlgorithms.SimpleSort
 // https://en.wikipedia.org/wiki/Sorting_algorithm
 /*
 1. Insertion Sort

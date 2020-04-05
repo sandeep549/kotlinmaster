@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.twopointer
+package leetcode.kotlin.twopointer
 
 private fun trap(height: IntArray): Int {
     var left = 0

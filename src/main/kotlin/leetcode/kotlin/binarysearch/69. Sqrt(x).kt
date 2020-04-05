@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 /**
  * I understand that square root finding is complex problem and it require a through study for some mathematics algorithms,

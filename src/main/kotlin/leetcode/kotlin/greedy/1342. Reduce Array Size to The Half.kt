@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.greedy
+package leetcode.kotlin.greedy
 
 private fun minSetSize(arr: IntArray): Int {
     var map = arr.groupBy { it }.mapValues { it.value.size }.toList().sortedByDescending { it.second }

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 fun main() {
     println(searchRange(intArrayOf(1), 1).toList())

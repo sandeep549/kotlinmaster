@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.NamedAlgorithms
+package leetcode.kotlin.array.NamedAlgorithms
 
 // https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm
 

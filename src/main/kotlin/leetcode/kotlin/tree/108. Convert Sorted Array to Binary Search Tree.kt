@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun sortedArrayToBST(nums: IntArray): TreeNode? {
     fun makeRoot(l: Int, r: Int): TreeNode? {

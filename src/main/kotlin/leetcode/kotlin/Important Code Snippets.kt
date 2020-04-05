@@ -1,6 +1,5 @@
-package com.example.kotlinsamples.leetcode.kotlin
+package leetcode.kotlin
 
-import java.util.*
 import java.util.concurrent.TimeUnit
 
 // using comparator

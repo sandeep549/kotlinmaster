@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 /**
  * 1. traverse in preorder from left to right and pick one element e1.

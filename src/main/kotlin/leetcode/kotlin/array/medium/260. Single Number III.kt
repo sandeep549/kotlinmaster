@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun singleNumber(nums: IntArray): IntArray {
     var bitmask = 0

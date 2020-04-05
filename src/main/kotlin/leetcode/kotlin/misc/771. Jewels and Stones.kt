@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.misc
+package leetcode.kotlin.misc
 
 fun numJewelsInStones(J: String, S: String): Int {
     val jewels = J.toSet()

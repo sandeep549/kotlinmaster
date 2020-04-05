@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.hashtable
+package leetcode.kotlin.hashtable
 
 fun main() {
     println(findAnagrams2("cbaebabacd", "abc"))

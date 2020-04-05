@@ -1,9 +1,7 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
-import android.annotation.SuppressLint
-import java.util.*
+import java.util.PriorityQueue
 
-@SuppressLint("NewApi")
 private fun minMeetingRooms(intervals: Array<IntArray>): Int {
     intervals.sortBy { it[0] }
     var pq = PriorityQueue<IntArray>() { a1, a2 -> a1[1] - a2[1] } // sort by end time

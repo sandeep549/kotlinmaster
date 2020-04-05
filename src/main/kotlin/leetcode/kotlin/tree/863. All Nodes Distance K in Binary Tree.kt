@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 /**
  * 1. Perform DFS on tree, maintain reference to parent node for ech node.

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 fun main() {
     // println(maxProfit(intArrayOf(3, 3, 5, 0, 0, 3, 1, 4)))

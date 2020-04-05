@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.bitManipulation
+package leetcode.kotlin.bitManipulation
 
 private fun numberOfSteps(num: Int): Int {
     var count = 0

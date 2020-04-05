@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 private fun exist(board: Array<CharArray>, word: String): Boolean {
     fun find(idx: Int, r: Int, c: Int, seen: MutableSet<Pair<Int, Int>>): Boolean {

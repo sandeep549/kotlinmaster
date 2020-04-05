@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun binaryTreePaths(root: TreeNode?): List<String> {
     fun dfs(root: TreeNode?): List<String> {

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 fun main() {
     println(peakIndexInMountainArray(intArrayOf(0, 2, 1, 0)))

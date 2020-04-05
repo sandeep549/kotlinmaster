@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 /**
  * ith fence can be painted in 2 ways, same as previous OR different than previous.

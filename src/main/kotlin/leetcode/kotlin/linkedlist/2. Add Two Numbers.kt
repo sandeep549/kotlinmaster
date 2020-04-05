@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 private fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
     var ans = l1 ?: l2

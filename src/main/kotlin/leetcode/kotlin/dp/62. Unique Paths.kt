@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 // dp, top-down
 fun uniquePaths(m: Int, n: Int): Int {

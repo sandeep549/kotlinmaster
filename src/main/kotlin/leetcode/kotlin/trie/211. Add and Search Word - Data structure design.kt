@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.trie
+package leetcode.kotlin.trie
 
 class WordDictionary() {
 

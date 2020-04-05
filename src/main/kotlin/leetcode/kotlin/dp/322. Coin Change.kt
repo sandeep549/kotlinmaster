@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 private fun coinChange(coins: IntArray, amount: Int): Int {
     var dp = IntArray(amount + 1) { -1 }

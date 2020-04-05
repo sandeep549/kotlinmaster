@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 private fun getIntersectionNode(headA: ListNode?, headB: ListNode?): ListNode? {
     var a = headA

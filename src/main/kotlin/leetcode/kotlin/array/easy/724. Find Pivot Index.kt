@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 private fun pivotIndex(nums: IntArray): Int {
     var sum = nums.sum()

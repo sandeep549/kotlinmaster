@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.SortingAlgorithms.EfficientSort
+package leetcode.kotlin.array.SortingAlgorithms.EfficientSort
 
 // https://en.wikipedia.org/wiki/Sorting_algorithm#Quicksort
 /*

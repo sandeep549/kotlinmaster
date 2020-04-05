@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.hashtable
+package leetcode.kotlin.hashtable
 
 /**
 A strobogrammatic number is a number that looks the same when rotated 180 degrees (looked at upside down).

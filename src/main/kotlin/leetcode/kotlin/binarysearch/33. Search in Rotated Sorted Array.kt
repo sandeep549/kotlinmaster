@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
 private fun search(nums: IntArray, target: Int): Int {
     if (nums.isEmpty()) return -1

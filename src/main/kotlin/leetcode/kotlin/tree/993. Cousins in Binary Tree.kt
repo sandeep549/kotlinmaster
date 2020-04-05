@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun isCousins(root: TreeNode?, x: Int, y: Int): Boolean {
     var res = false

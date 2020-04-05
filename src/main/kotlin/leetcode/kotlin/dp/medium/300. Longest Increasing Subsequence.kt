@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp.medium
+package leetcode.kotlin.dp.medium
 
 /**
  * LIS ending at index i, including index i

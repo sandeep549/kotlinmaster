@@ -1,6 +1,6 @@
-package com.example.kotlinsamples.leetcode.kotlin.binarysearch
+package leetcode.kotlin.binarysearch
 
-import java.util.*
+import java.util.PriorityQueue
 
 private fun kWeakestRows(mat: Array<IntArray>, k: Int): IntArray {
     fun findSoldiers(arr: IntArray): Int {

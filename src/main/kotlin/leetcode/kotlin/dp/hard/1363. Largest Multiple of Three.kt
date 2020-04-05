@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp.hard
+package leetcode.kotlin.dp.hard
 
 private fun largestMultipleOfThree(digits: IntArray): String {
     var max = mutableListOf<Int>()

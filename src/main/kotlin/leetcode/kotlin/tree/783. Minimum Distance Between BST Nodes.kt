@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun minDiffInBST(root: TreeNode?): Int {
     var last: Int? = null

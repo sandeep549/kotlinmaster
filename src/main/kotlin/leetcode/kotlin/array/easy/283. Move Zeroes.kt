@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.easy
+package leetcode.kotlin.array.easy
 
 fun main() {
     var arr = intArrayOf(0, 1, 0, 3, 12)

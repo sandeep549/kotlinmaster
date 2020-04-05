@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree.easy
+package leetcode.kotlin.tree.easy
 
 class Solution {
     fun removeInvalidParentheses(s: String): List<String> {
@@ -10,8 +10,7 @@ class Solution {
             r: Int, // right count
             exp: StringBuilder, // current expression
             remove: Int
-        ) // remove count
-        {
+        ) // remove count {
             if (i == s.length) {
                 if (l == r) { // exp is valid
                     if (remove <= min) {

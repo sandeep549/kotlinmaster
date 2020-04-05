@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.bitManipulation
+package leetcode.kotlin.bitManipulation
 
 private fun getSum(a: Int, b: Int): Int {
     var a = a

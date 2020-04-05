@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree.bst
+package leetcode.kotlin.tree.bst
 
 import com.example.kotlinsamples.leetcode.kotlin.tree.TreeNode
 import java.util.*

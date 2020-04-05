@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.bfs
+package leetcode.kotlin.bfs
 
 private fun orangesRotting(grid: Array<IntArray>): Int {
     var rotten = mutableListOf<Pair<Int, Int>>()

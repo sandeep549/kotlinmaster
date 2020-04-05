@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 private fun removeElements(head: ListNode?, `val`: Int): ListNode? {
     var dummy = ListNode(-1)

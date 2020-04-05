@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree
+package leetcode.kotlin.tree
 
 private fun maxDepth(root: TreeNode?): Int {
     fun dfs(root: TreeNode?): Int {

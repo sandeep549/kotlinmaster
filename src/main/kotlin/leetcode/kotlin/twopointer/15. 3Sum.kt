@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.twopointer
+package leetcode.kotlin.twopointer
 
 // O(n^2)
 private fun threeSum(num: IntArray): List<List<Int>> {

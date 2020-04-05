@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.misc
+package leetcode.kotlin.misc
 
 private fun increasingTriplet(nums: IntArray): Boolean {
     for (i in 0..nums.lastIndex - 2) {

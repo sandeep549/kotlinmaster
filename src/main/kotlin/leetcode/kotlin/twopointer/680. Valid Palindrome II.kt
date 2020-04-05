@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.twopointer
+package leetcode.kotlin.twopointer
 
 fun main() {
     println(validPalindrome("abca"))

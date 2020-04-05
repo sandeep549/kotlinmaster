@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.math
+package leetcode.kotlin.math
 
 import kotlin.math.sqrt
 

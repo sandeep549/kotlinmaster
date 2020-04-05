@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.advanceds
+package leetcode.advanceds
 
 // https://en.wikipedia.org/wiki/Disjoint-set_data_structure
 // https://www.techiedelight.com/disjoint-set-data-structure-union-find-algorithm/

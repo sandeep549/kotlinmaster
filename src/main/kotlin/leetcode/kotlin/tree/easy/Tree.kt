@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.tree.easy
+package leetcode.kotlin.tree.easy
 
 /**
  * Binary tree node

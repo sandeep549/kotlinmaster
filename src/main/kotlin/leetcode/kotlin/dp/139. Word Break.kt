@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.dp
+package leetcode.kotlin.dp
 
 // Recursion, time limit exceeded
 private fun wordBreak(s: String, wordDict: List<String>): Boolean {

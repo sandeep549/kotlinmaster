@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin
+package leetcode.kotlin
 
 class TweetCounts() {
 

@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.linkedlist
+package leetcode.kotlin.linkedlist
 
 fun main() {
     println(mergeTwoList("[1,2,4]".toLinkedList(), "[1,3,4]".toLinkedList()).toString())

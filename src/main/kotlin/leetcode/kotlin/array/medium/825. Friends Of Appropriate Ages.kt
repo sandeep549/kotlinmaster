@@ -1,4 +1,4 @@
-package com.example.kotlinsamples.leetcode.kotlin.array.medium
+package leetcode.kotlin.array.medium
 
 // TLE
 private fun numFriendRequests(ages: IntArray): Int {
