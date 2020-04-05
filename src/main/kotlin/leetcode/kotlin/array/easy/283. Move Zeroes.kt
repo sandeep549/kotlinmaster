@@ -42,3 +42,11 @@ private fun moveZeroes3(nums: IntArray) {
         }
     }
 }
+
+private fun moveZero4(nums: IntArray) {
+    var i = 0
+    for (n in nums) {
+        if (n != 0) nums[i++] = n
+    }
+    while (i < nums.size) nums[i++] = 0
+}
